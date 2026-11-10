@@ -137,3 +137,10 @@ GitHub: github.com/akshaya0027
 LinkedIn: linkedin.com/in/ragha-akshaya-30b0a42bb
 Tableau: Tableau Public Profile
 Email: raghaakshaya941@gmail.com
+
+## Analytical Methodology and Data Quality
+
+- Keep raw data unchanged and document each cleaning or filtering step used to create the analysis dataset.
+- Define business metrics such as revenue, order count, and customer count consistently before comparing segments.
+- Check duplicate orders, cancelled or returned transactions, missing values, and date boundaries.
+- Include metric definitions and dashboard refresh assumptions so findings can be interpreted and reproduced.
